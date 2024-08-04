@@ -20,7 +20,7 @@ const links = global.canal
 if (chat.detect2 && m.messageStubType == 2) {
 const chatId = m.isGroup ? m.chat : m.sender;
 const uniqid = chatId.split('@')[0];
-const sessionPath = './NaufraBotSession/';
+const sessionPath = './ReyBotSession/';
 const files = await fs.readdir(sessionPath);
 let filesDeleted = 0;
 for (const file of files) {
@@ -45,14 +45,14 @@ await this.sendMessage(m.chat, { text: `『✦』Se ha configurado los ajustes d
 await this.sendMessage(m.chat, { text: `『✦』Se ha configurado los ajustes del grupo, ${m.messageStubParameters[0] == 'on' ? 'se cierra el grupo.' : 'se abre el grupo.'}*\n\n${m.messageStubParameters[0] == 'on' ? 'Ahora solo los admins' : 'Ahora todos'} pueden enviar mensajes en este chat.`, mentions: [m.sender] }, { quoted: m,, ephemeralExpiration: 24*60*100, disappearingMessagesInChat: 24*60*100})
 
 } else if (chat.detect2 && m.messageStubType == 29) {
-let txt1 = `『✦』 @${m.sender.split`@`[0]} ha promovido admin a:\n`
+let txt1 = `『✦』 @${m.sender.split`@`[0]} ha promovido admin 💪 a:\n`
 txt1 += `@${m.messageStubParameters[0].split`@`[0]}\n\n`
 txt1 += `> 𝑹𝑬𝒀 𝑾𝑰𝑳𝑩𝑬𝑹𝑻`
 
 await conn.sendMessage(m.chat, {text: txt1, mentions: [...txt1.matchAll(/@([0-9]{5,16}|0)/g)].map((v) => v[1] + '@s.whatsapp.net'), contextInfo: { mentionedJid: [...txt1.matchAll(/@([0-9]{5,16}|0)/g)].map((v) => v[1] + '@s.whatsapp.net'), "externalAdReply": {"showAdAttribution": true, "containsAutoReply": true, "renderLargerThumbnail": true, "title": global.wm, "containsAutoReply": true, "mediaType": 1, "thumbnail": img, "mediaUrl": links, "sourceUrl": links}}})
 
 } else if (chat.detect2 && m.messageStubType == 30) {
-let txt2 = `『✦』 @${m.sender.split`@`[0]} ha quitado admin a\n`
+let txt2 = `『✦』 @${m.sender.split`@`[0]} ha quitado admin 🖕 a\n`
 txt2 += `@${m.messageStubParameters[0].split`@`[0]}\n\n`
 txt2 += `> 𝑹𝑬𝒀 𝑾𝑰𝑳𝑩𝑬𝑹𝑻`
 
