@@ -60,7 +60,7 @@ npm start
 
 [![Picsart-24-06-07-14-00-43-215.jpg](https://i.postimg.cc/6QbfzS2B/perfil-wibeex.jpg)](https://postimg.cc/PLZD5SQ7)
 
-[![WhatsApp](https://img.shields.io/badge/mi_numero-00802f?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51918534156) <img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Bots-WhatsApp-OFC/master/accesos/iconos/whatsapp.gif" width="30">
+[![WhatsApp](https://img.shields.io/badge/mi_numero_de_whatsapp-00802f?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/18293733257) <img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Bots-WhatsApp-OFC/master/accesos/iconos/whatsapp.gif" width="30">
 
 [![WhatsApp](https://img.shields.io/badge/Canal_de_WhatsApp-00802f?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaRibRvDuMRj6ozMSN1l) <img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Bots-WhatsApp-OFC/master/accesos/iconos/whatsapp.gif" width="30">
 
