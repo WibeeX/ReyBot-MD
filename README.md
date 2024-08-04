@@ -1,4 +1,4 @@
-[![Picsart-24-06-07-05-14-22-511.jpg](https://i.postimg.cc/mrHyXhTr/177297460.jpg)](https://postimg.cc/SXm9jS20)
+[![Picsart-24-06-07-05-14-22-511.jpg](file:///C:/Users/R3Y%20%20WILBERT/Desktop/FONDO%20BOT.jpg)](https://postimg.cc/K3fzf0nh)
 
 <p align="center">
 <a href="https://wa.me/51929838430"><img title="Author" src="https://img.shields.io/badge/NaufraZapp-black?style=for-the-badge&logo=whatsApp"></a>
