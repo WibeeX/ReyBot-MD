@@ -10,7 +10,7 @@ if (!text) throw `Ingrese un numero valido para agregarlo, por ejemplo:\n*${used
 if (text.includes('+')) throw  `Ingrese un numero valido para agregarlo, por ejemplo:\n*${usedPrefix + command}* 18293733257`
 let group = m.chat
 let link = 'https://chat.whatsapp.com/' + await conn.groupInviteCode(group)
-await conn.reply(text+'@s.whatsapp.net', `Holaaa, soy ReyBot-MD, un bot de WhatsApp creador por WILBERT, alguien te invito a unirte al grupo, te estamos esperando!!!!\n\n${link}`, m, {mentions: [m.sender]})
+await conn.reply(text+'@s.whatsapp.net', `Holaaa, soy ReyBot-MD, un bot de WhatsApp creado por WILBERT👄, alguien te invito a unirte al grupo, te estamos esperando!!!!\n\n${link}`, m, {mentions: [m.sender]})
 m.reply(`✅ Link enviado a *@${who.split`@`[0]}*`) 
 }
 handler.help = ['add', '+'].map(v => v + ' número')
