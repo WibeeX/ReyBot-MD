@@ -1,7 +1,7 @@
 [![Picsart-24-06-07-05-14-22-511.jpg](https://i.postimg.cc/yW4ZV5xx/WIBEEEEEssss.jpg)](https://postimg.cc/K3fzf0nh)
 
 <p align="center">
-<a href="https://wa.me/51929838430"><img title="Author" src="https://img.shields.io/badge/NaufraZapp-black?style=for-the-badge&logo=whatsApp"></a>
+<a href="https://wa.me/18293733257"><img title="Author" src="https://img.shields.io/badge/WHATSAPP-BLUE"></a>
 <p/>
 
 # 🔥INSTALACIÓN POR TERMUX.
