@@ -4,7 +4,7 @@
 <a href="https://wa.me/18293733257"><img title="Author" src="https://img.shields.io/badge/WHATSAPP-BLUE"></a>
 <p/>
 
-# 🔥INSTALACIÓN POR TERMUX.
+# 🔥𝐈𝐍𝐒𝐓𝐀𝐋𝐀𝐂𝐈𝐎𝐍 𝐏𝐎𝐑 𝐓𝐄𝐑𝐌𝐔𝐗
 * Instala el termux [aqui](https://f-droid.org/repo/com.termux_118.apk)
 
 > [!NOTE]
@@ -29,7 +29,7 @@ yarn install && npm install
 ```bash
 npm start 
 ```
-# 🔥ACTIVAR EN CASO DE DETENERSE EN TERMUX
+# 🔥𝐀𝐂𝐓𝐈𝐕𝐀𝐑 𝐄𝐍 𝐂𝐀𝐒𝐎 𝐃𝐄 𝐃𝐄𝐓𝐄𝐍𝐄𝐑𝐒𝐄 𝐄𝐍 𝐓𝐄𝐑𝐌𝐔𝐗
 
 Si después de instalar el bot en Termux se detiene (pantalla en blanco, pérdida de conexión a Internet, reinicio del dispositivo), sigue estos pasos:
 
@@ -42,7 +42,7 @@ Si después de instalar el bot en Termux se detiene (pantalla en blanco, pérdid
     ```bash
     npm start
     ```
-# 🔥INSTALACIÓN POR CLOUD SHELL.
+# 🔥𝐈𝐍𝐒𝐓𝐀𝐋𝐀𝐂𝐈Ó𝐍 𝐏𝐎𝐑 𝐂𝐋𝐎𝐔𝐃 𝐒𝐇𝐄𝐋𝐋
 * Instala clud shell [aqui](https://www.mediafire.com/file/bp2l6cci2p30hjv/Cloud+Shell_1.apk/file)
 
 > [!NOTE]
@@ -56,16 +56,11 @@ git clone https://github.com/WibeeX/ReyBot-MD && cd Rey-Bot-MD && yarn install &
 npm start
 ```
 
-# 💥CONTÁCTAME💥
+# 🔥𝐂𝐎𝐍𝐓𝐀𝐂𝐓𝐀𝐌𝐄🔥
 
 [![Picsart-24-06-07-14-00-43-215.jpg](https://i.postimg.cc/6QbfzS2B/perfil-wibeex.jpg)](https://postimg.cc/PLZD5SQ7)
 
 [![WhatsApp](https://img.shields.io/badge/mi_numero_de_whatsapp-00802f?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/18293733257) <img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Bots-WhatsApp-OFC/master/accesos/iconos/whatsapp.gif" width="30">
 
-[![WhatsApp](https://img.shields.io/badge/Canal_de_WhatsApp-00802f?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaRibRvDuMRj6ozMSN1l) <img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Bots-WhatsApp-OFC/master/accesos/iconos/whatsapp.gif" width="30">
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@reywilbert)
 
-[![YouTube](https://img.shields.io/badge/Canal_de_Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@naufrazapp_bots?si=iZbDpSK_pqT9uXiW)
-
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@naufra.zapp?_t=8n0fhoHsKHu&_r=1)
-
-[![WhatsApp](https://img.shields.io/badge/Grupo_para_probar_el_bot-00802f?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/H3yqombbe3w40OlNWOz9b6)
