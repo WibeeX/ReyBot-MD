@@ -1,0 +1,14 @@
+
+{
+"name": "ReyBot-MD",
+"description": "Bot.",
+"repository": "https://github.com/ReyBot-MD",
+"logo": "https://i.postimg.cc/tC0JgJFm/Dise-o-sin-t-tulo.jpg",
+"keywords": ["bot", "whatsapp", "whatsapp-bot", "nz", "botbot", "botnz"],
+"buildpacks": [
+{ "url": "heroku/nodejs" },
+{ "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest" },
+{ "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git" },
+{ "url": "https://github.com/bogini/heroku-buildpack-graphicsmagick" }    
+]
+}
