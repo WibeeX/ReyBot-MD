@@ -68,7 +68,7 @@ global.imagen10 = fs.readFileSync('./imagenes/wilbert7.jpg')
 global.imagen11 = fs.readFileSync('./imagenes/wilbert8.jpg')
 global.imagen12 = fs.readFileSync('./imagenes/wilbert9.jpg')
 global.imagen13 = fs.readFileSync('./imagenes/wilbert10.jpg')
-global.imagen14 = fs.readFileSync('./imagenes/wilbert.jpg')
+global.imagen14 = fs.readFileSync('./imagenes/wilbert11.jpg')
 global.imagen15 = fs.readFileSync('./imagenes/wilbert12.jpg')
 global.imagen16 = fs.readFileSync('./imagenes/wilbert13.jpg')
 
