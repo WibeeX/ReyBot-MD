@@ -19,7 +19,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/WibeeX/ReyBot-MD && cd Rey-Bot-MD
+git clone https://github.com/WibeeX/ReyBot-MD && cd ReyBot-MD
 ```
 
 ```bash
