@@ -3,7 +3,7 @@
 
 #!/data/data/com.termux/files/usr/bin/bash 
 BOT_DIR="ReyBot-MD"  
-BOT_REPO="https://https://github.com/WibeeX/$BOT_DIR"
+BOT_REPO="https://github.com/WibeeX/$BOT_DIR"
 DB_FILE="database.json"
 
 GREEN='\033[32m'
