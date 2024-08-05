@@ -123,7 +123,7 @@ global.authFileRespald = join(__dirname, `sesionRespaldo/`)
 global.temp = join(__dirname, 'tmp')
 global.media = raiz+'media/'
 global.jadibts = join(__dirname, 'jadibts/')
-global.raiz = './menu1.jpg'
+global.raiz = './Menu1.jpg'
 */
 
 global.rwait = '⏰'
