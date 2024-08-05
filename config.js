@@ -50,8 +50,8 @@ global.menudi = ['⛶','❏','⫹⫺']
 global.dev = '✯ Wibego ✯'
 global.devnum = '+1 829 373 3257'
 
-global.imgAll = fs.readFileSync('./Menu1.jpg')
-global.nzMenus = fs.readFileSync('./Menu2.jpg')
+global.imgAll = fs.readFileSync('./menu1.jpg')
+global.nzMenus = fs.readFileSync('./menu2.jpg')
 global.naufraImg = fs.readFileSync('./storage/nz4.jpg')
 	
 //Imagenes
