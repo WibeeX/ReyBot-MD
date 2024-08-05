@@ -49,7 +49,7 @@ Si después de instalar el bot en Termux se detiene (pantalla en blanco, pérdid
 > Copia los códigos uno por uno, no los pegues todos juntos a la vez.
 
 ```bash
-git clone https://github.com/WibeeX/ReyBot-MD && cd Rey-Bot-MD && yarn install && npm install
+git clone https://github.com/WibeeX/ReyBot-MD && cd ReyBot-MD && yarn install && npm install
 ```
 
 ```bash
