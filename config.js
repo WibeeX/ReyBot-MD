@@ -50,14 +50,16 @@ global.menudi = ['⛶','❏','⫹⫺']
 global.dev = '✯ Wibego ✯'
 global.devnum = '+1 829 373 3257'
 
-global.imgAll = fs.readFileSync('./menu1.jpg')
-global.nzMenus = fs.readFileSync('./menu2.jpg')
+global.imgAll = fs.readFileSync('./Menu1.jpg')
+global.naufraAll = 'https://whatsapp.com/channel/0029VaRibRvDuMRj6ozMSN1l'
+global.nzLink = 'https://chat.whatsapp.com/I7A2Q6EXtmE6d7zOxyYF3L'
+global.nzMenus = fs.readFileSync('./Menu2.jpg')
 global.naufraImg = fs.readFileSync('./storage/nz4.jpg')
 	
 //Imagenes
 global.imagen1 = 'https://i.postimg.cc/tC0JgJFm/Dise-o-sin-t-tulo.jpg'
-global.imagen2 = fs.readFileSync('./menu2.jpg')
-global.imagen3 = fs.readFileSync('./menu3.jpg')
+global.imagen2 = fs.readFileSync('./Menu2.jpg')
+global.imagen3 = fs.readFileSync('./Menu3.jpg')
 global.imagen4 = fs.readFileSync('./imagenes/wilbert1.jpg')
 global.imagen5 = fs.readFileSync('./imagenes/wilbert2.jpg')
 global.imagen6 = fs.readFileSync('./imagenes/wilbert3.jpg')
@@ -72,8 +74,8 @@ global.imagen14 = fs.readFileSync('./imagenes/wilbert11.jpg')
 global.imagen15 = fs.readFileSync('./imagenes/wilbert12.jpg')
 global.imagen16 = fs.readFileSync('./imagenes/wilbert13.jpg')
 
-global.nzImg1 = fs.readFileSync('./menu1.jpg')
-global.nzImg2 = fs.readFileSync('./menu2.jpg')
+global.nzImg1 = fs.readFileSync('./Menu1.jpg')
+global.nzImg2 = fs.readFileSync('./Menu2.jpg')
 
 global.nz1 = fs.readFileSync('./storage/nz.jpg')
 global.nz2 = fs.readFileSync('./storage/nz2.jpg')
@@ -82,10 +84,10 @@ global.nz4 = fs.readFileSync('./storage/nz4.jpg')
 global.nz5 = fs.readFileSync('./storage/nz5.jpg')
 global.nz6 = fs.readFileSync('./storage/nz6.jpg')
 
-global.img = 'https://i.postimg.cc/Y0xhjXhR/menu2.jpg'
-global.img1 = 'https://i.postimg.cc/Y0xhjXhR/menu3.jpg'
-global.img2 = 'https://i.postimg.cc/Y0xhjXhR/menu3.jpg'
-global.img3 = 'https://i.postimg.cc/Y0xhjXhR/menu4.jpg'
+global.img = 'https://i.postimg.cc/Y0xhjXhR/Menu2.jpg'
+global.img1 = 'https://i.postimg.cc/Y0xhjXhR/Menu3.jpg'
+global.img2 = 'https://i.postimg.cc/Y0xhjXhR/Menu3.jpg'
+global.img3 = 'https://i.postimg.cc/Y0xhjXhR/Menu4.jpg'
 global.img4 = 'https://i.postimg.cc/rshMv7DB/fondo.jpg'
 global.img5 = 'https://i.postimg.cc/rshMv7DB/fondo.jpg'
 global.img6 = 'https://i.postimg.cc/rshMv7DB/fondo.jpg'
