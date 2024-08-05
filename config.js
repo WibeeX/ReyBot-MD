@@ -56,24 +56,24 @@ global.naufraImg = fs.readFileSync('./storage/nz4.jpg')
 	
 //Imagenes
 global.imagen1 = 'https://i.postimg.cc/tC0JgJFm/Dise-o-sin-t-tulo.jpg'
-global.imagen2 = fs.readFileSync('./Menu2.jpg')
-global.imagen3 = fs.readFileSync('./Menu3.jpg')
-global.imagen4 = fs.readFileSync('./imagenes/naufra1.jpg')
-global.imagen5 = fs.readFileSync('./imagenes/naufra2.jpg')
-global.imagen6 = fs.readFileSync('./imagenes/naufra3.jpg')
-global.imagen7 = fs.readFileSync('./imagenes/naufra4.jpg')
-global.imagen8 = fs.readFileSync('./imagenes/naufra5.jpg')
-global.imagen9 = fs.readFileSync('./imagenes/naufra6.jpg')
-global.imagen10 = fs.readFileSync('./imagenes/naufra7.jpg')
-global.imagen11 = fs.readFileSync('./imagenes/naufra8.jpg')
-global.imagen12 = fs.readFileSync('./imagenes/naufra9.jpg')
-global.imagen13 = fs.readFileSync('./imagenes/naufra10.jpg')
+global.imagen2 = fs.readFileSync('./menu2.jpg')
+global.imagen3 = fs.readFileSync('./menu3.jpg')
+global.imagen4 = fs.readFileSync('./imagenes/wilbert1.jpg')
+global.imagen5 = fs.readFileSync('./imagenes/wilbert2.jpg')
+global.imagen6 = fs.readFileSync('./imagenes/wilbert3.jpg')
+global.imagen7 = fs.readFileSync('./imagenes/wilbert4.jpg')
+global.imagen8 = fs.readFileSync('./imagenes/wilbert5.jpg')
+global.imagen9 = fs.readFileSync('./imagenes/wilbert6.jpg')
+global.imagen10 = fs.readFileSync('./imagenes/wilbert7.jpg')
+global.imagen11 = fs.readFileSync('./imagenes/wilbert8.jpg')
+global.imagen12 = fs.readFileSync('./imagenes/wilbert9.jpg')
+global.imagen13 = fs.readFileSync('./imagenes/wilbert10.jpg')
 global.imagen14 = fs.readFileSync('./imagenes/naufra11.jpg')
 global.imagen15 = fs.readFileSync('./imagenes/naufra12.jpg')
 global.imagen16 = fs.readFileSync('./imagenes/naufra13.jpg')
 
-global.nzImg1 = fs.readFileSync('./Menu1.jpg')
-global.nzImg2 = fs.readFileSync('./Menu2.jpg')
+global.nzImg1 = fs.readFileSync('./menu1.jpg')
+global.nzImg2 = fs.readFileSync('./menu2.jpg')
 
 global.nz1 = fs.readFileSync('./storage/nz.jpg')
 global.nz2 = fs.readFileSync('./storage/nz2.jpg')
@@ -82,23 +82,23 @@ global.nz4 = fs.readFileSync('./storage/nz4.jpg')
 global.nz5 = fs.readFileSync('./storage/nz5.jpg')
 global.nz6 = fs.readFileSync('./storage/nz6.jpg')
 
-global.img = 'https://i.postimg.cc/Y9t2mzvt/Menu2.jpg'
-global.img1 = 'https://i.postimg.cc/T386DJsB/Menu3.jpg'
-global.img2 = 'https://i.postimg.cc/T386DJsB/Menu3.jpg'
-global.img3 = 'https://i.postimg.cc/43sR8Ns5/Menu4.jpg'
-global.img4 = 'https://i.postimg.cc/j5T9x8L4/f0304022-da50-4a0a-8be4-6b4138bab3af.jpg'
-global.img5 = 'https://i.postimg.cc/j5T9x8L4/f0304022-da50-4a0a-8be4-6b4138bab3af.jpg'
-global.img6 = 'https://i.postimg.cc/8zq93kG3/c9737e9e-4e19-4f75-95d3-e56c746fb97e.jpg'
-global.img7 = 'https://i.postimg.cc/8zq93kG3/c9737e9e-4e19-4f75-95d3-e56c746fb97e.jpg'
-global.img8 = 'https://i.postimg.cc/GtK1wWKD/db93517c-0588-4a1b-b9a7-641b235597ad.jpg'
-global.img9 = 'https://i.postimg.cc/cLb0JNSM/474106d3-382b-4964-af1e-fbfb35d495cd.jpg'
-global.img10 = 'https://i.postimg.cc/PqvxZdBD/06efe094-8f28-444e-b3d4-7474a9ee7f3e.jpg'
+global.img = 'https://i.postimg.cc/Y0xhjXhR/menu2.jpg'
+global.img1 = 'https://i.postimg.cc/Y0xhjXhR/menu3.jpg'
+global.img2 = 'https://i.postimg.cc/Y0xhjXhR/menu3.jpg'
+global.img3 = 'https://i.postimg.cc/Y0xhjXhR/menu4.jpg'
+global.img4 = 'https://i.postimg.cc/rshMv7DB/fondo.jpg'
+global.img5 = 'https://i.postimg.cc/rshMv7DB/fondo.jpg'
+global.img6 = 'https://i.postimg.cc/rshMv7DB/fondo.jpg'
+global.img7 = 'https://i.postimg.cc/rshMv7DB/fondo.jpg'
+global.img8 = 'https://i.postimg.cc/rshMv7DB/fondo.jpg'
+global.img9 = 'https://i.postimg.cc/rshMv7DB/fondo.jpg'
+global.img10 = 'https://i.postimg.cc/rshMv7DB/fondo.jpg'
 
-global.iimg1 = 'https://i.postimg.cc/t4KK7yy7/11fe6d78ece25ee972ee8de229e182a9.jpg'
-global.iimg2 = 'https://i.postimg.cc/5t5R0Cnk/66945863cdf7c56b212c2280e91d497b.jpg'
-global.iimg3 = 'https://i.postimg.cc/x1D5zdJr/0c967c4af27aa805391e3be495936acd.jpg'
-global.iimg4 = 'https://i.postimg.cc/kM2LNB4D/89aaf3a76c5af6c6904716889463a278.jpg'
-global.iimg5 = 'https://i.postimg.cc/gJntKTG1/e872a51954db06122d6108df482ef157.jpg'
+global.iimg1 = 'https://i.postimg.cc/rshMv7DB/fondo.jpg'
+global.iimg2 = 'https://i.postimg.cc/rshMv7DB/fondo.jpg'
+global.iimg3 = 'https://i.postimg.cc/rshMv7DB/fondo.jpg'
+global.iimg4 = 'https://i.postimg.cc/rshMv7DB/fondo.jpg'
+global.iimg5 = 'https://i.postimg.cc/rshMv7DB/fondo.jpg'
 
 global.yt = 'https://www.youtube.com/results?search_query=memeriard'
 global.ig = 'https://www.instagram.com/wibesinho_01/'
@@ -121,7 +121,7 @@ global.authFileRespald = join(__dirname, `sesionRespaldo/`)
 global.temp = join(__dirname, 'tmp')
 global.media = raiz+'media/'
 global.jadibts = join(__dirname, 'jadibts/')
-global.raiz = './Menu1.jpg'
+global.raiz = './menu1.jpg'
 */
 
 global.rwait = '⏰'
